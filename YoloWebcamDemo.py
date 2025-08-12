@@ -1,5 +1,6 @@
 '''
 Enter this into terminal -> pip install ultralytics opencv-python
+Note: we do not have training datasets to train YOLO
 '''
 
 import cv2, time
